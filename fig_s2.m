@@ -82,7 +82,7 @@ dx2_bias = {0,0,0,0,0,0,0};
 % We thank the PI investigators and their staff for
 % establishing and maintaining the 4 sites used in this
 % investigation.
-load('./data/x_true_original_aod');
+load('./x_true_original_aod');
 
 % number of data points in x_true_original
 x_true_n = numel(x_true_original);

@@ -18,10 +18,7 @@
 % You should have received a copy of the GNU General Public License
 % along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-%% load or create the data in the article 
-
-% create or load synthetic observations, this if clause is just a manual
-% switch
+%% create the data in the article 
 
 clear all
 close all

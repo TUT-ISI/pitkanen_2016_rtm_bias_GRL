@@ -51,7 +51,7 @@ uncertainties2 = uncertainties1;
 dx1_bias = {0};
 dx2_bias = {0};         
 
-x_true_original = load('./data/your_x_true_original.txt');
+x_true_original = load('./your_x_true_original.txt');
 
 % number of data points in x_true_original
 x_true_n = numel(x_true_original);
